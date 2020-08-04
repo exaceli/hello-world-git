@@ -6,7 +6,7 @@ Soy un readme
 ##### Cabecera H5
 ###### Cabecera H6
 
-Underline 1
--
-Underline 2
+Underline 1 (H1)
 =
+Underline 2 (H2)
+-
