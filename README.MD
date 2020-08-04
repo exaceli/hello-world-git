@@ -75,3 +75,28 @@ echo '"quoted"' | tr -d \" > text.txt
 felipe|cuevas|doctor
 Andres|Abad|Cantautor
 Carla|Bravo|atleta
+
+# Citas
+Texto referente a una cita:
+> el que la sigue la consigue
+
+otro texto no citado
+
+# Lines divisorias horizontales
+Texto 1 triple guion medio
+
+---
+
+Texto 2 tres arteristos
+
+***
+Texto  3 tres lineas bajas
+___
+
+# Saltos de linea (ENTER)
+
+Un texto es una composición de signos codificados en un sistema de escritura que forma una unidad de sentido. 
+
+También es una composición de caracteres imprimibles generados por un algoritmo de cifrado que, aunque no tienen sentido para cualquier persona, sí puede ser descifrado por su destinatario original
+
+- lista
