@@ -67,3 +67,11 @@ echo '"quoted"' | tr -d \" > text.txt
   }
 ]
  ```
+
+ # Tabla
+  Nombre | Apellido | oficio 
+ -|-|-
+ maxi|perez|cartero
+felipe|cuevas|doctor
+Andres|Abad|Cantautor
+Carla|Bravo|atleta
