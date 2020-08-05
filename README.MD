@@ -1,3 +1,9 @@
+# Version
+v.1.1.0
+
+---
+---
+
 Soy un readme 
 # Cabecera H1 
 ## Cabecera H2
